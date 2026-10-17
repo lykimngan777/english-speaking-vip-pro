@@ -1,0 +1,7 @@
+{
+  "name": "english-speaking-vip-pro",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "English Speaking VIP Pro starter with AI feedback and Supabase progress sync"
+}
